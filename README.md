@@ -16,7 +16,7 @@ Before you start, please check the official :aravel installation guide for serve
 
 Clone the repository
 
-    git clone https://ittanta@bitbucket.org/ittanta/multi-auth.git
+    git clone https://github.com/nayanvirani86/Laravel-Multiple-Login.git
 
 Switch to the repo folder
 
@@ -45,7 +45,7 @@ Install all the dependencies using composer
 
 **TL;DR command list**
 
-    git clone https://ittanta@bitbucket.org/ittanta/multi-auth.git
+    git clone https://github.com/nayanvirani86/Laravel-Multiple-Login.git
     cd multi-auth
     composer install
     cp .env.example .env
